@@ -1,4 +1,3 @@
 # portfolio-HABIBALLAH-HEZAREHEE
 
-Hej mitt namn är Habib, 24 år gammal.
-Jag älskar programmering och allt som berör teknologin.
+Hej, mitt namn är Habiballah Hezarehee (Habib) 25 årig från Stockholm som bor just nu i Göteborg.
